@@ -19,6 +19,9 @@ Follow the red arrows and texts!
 
 Now, you need a JS/TS code for it. Here's both of them.
 
+> [!IMPORTANT]
+> This code is actually untested and was made by Google Gemini 3.0 Pro. Please let me know through [issues tab](https://github.com/daveberrys/CurrentLastFM/issues) if it works or not.
+
 ### JavaScript Example (Fetch API)
 This example uses the modern `fetch` API in an `async` function to get the data.
 
