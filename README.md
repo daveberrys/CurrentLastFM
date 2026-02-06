@@ -1,5 +1,9 @@
 # CurrentLastFM Project
-This is for fetching your current (or last played) last fm account! It's easy to use, and you don't need to be a genious on how to use it.
+This is for fetching your current (or last played) last fm account! It's easy to use, and you don't need to be a genius on how to use it.
+
+![Hosted by Vercel](https://img.shields.io/badge/Hosted%20by-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Project for Last.fm](https://img.shields.io/badge/Project%20for%20-Last.fm-D51007?style=flat-square&logo=last.fm&logoColor=white)
 
 ## How do I use it?
 Simple! The url for fetching your current/last-played from your account is simple. <br>
