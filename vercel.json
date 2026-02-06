@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://www.example.com/your-new-destination",
+      "permanent": false
+    }
+  ]
+}
